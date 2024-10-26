@@ -1,4 +1,4 @@
-### GestionDePatients
+# GestionDePatients
 GestionDePatients est une application en langage C permettant la gestion simplifiée des informations de patients dans un système de santé. Le projet exploite les concepts de structures de données pour fournir une interface en ligne de commande robuste et facile d'utilisation, dédiée aux professionnels de la santé ou aux étudiants en informatique souhaitant approfondir leurs compétences en programmation C.
 
 ## Fonctionnalités :
