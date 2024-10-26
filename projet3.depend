@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1687467724 source:c:\users\ibrahim elma\desktop\projet3\projet3\main.c
+	"projet3.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687466412 c:\users\ibrahim elma\desktop\projet3\projet3\projet3.h
+
+1687467950 source:c:\users\ibrahim elma\desktop\projet3\projet3\projet3.c
+	"projet3.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
